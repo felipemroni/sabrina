@@ -2,9 +2,9 @@
   "antipv": false,
   "antipv2": false,
   "antipv3": false,
-  "menu_audio": false,
-  "verificado": true,
-  "anticall": false,
+  "menu_audio": true,
+  "verificado": false,
+  "anticall": true,
   "visualizarmsg": true,
   "listanegraG": [],
   "cmd_premium": [
