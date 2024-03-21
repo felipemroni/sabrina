@@ -141,10 +141,10 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ┃│✰ ⋟ ${prefix}Togif (Marcar-sticker)
 ┃│✰ ⋟ ${prefix}Roubar (Texto/Texto)
 ┃│✰ ⋟ ${prefix}Take (Renomear a figurinha)
-┃│✰ ⋟ ${prefix}Rgtake (Texto|Texto) - Registrar sua marca ďágua.
+┃│✰ ⋟ ${prefix}Rgtake (Texto|Texto) - Registrar m. ďágua.
 ┃│✰ ⋟ ${prefix}Qc (Coloque seu texto)
 ┃│✰ ⋟ ${prefix}Figuweb (Texto/Cor)
-┃│✰ ⋟ ${prefix}Rntake (Texto|Texto) - Renomeia a sua marca ďagua.
+┃│✰ ⋟ ${prefix}Rntake (Texto|Texto) - Renomear m. ďagua.
 ┃│✰ ⋟ ${prefix}Figurinhas (Quantidade)
 ┃│✰ ⋟ ${prefix}Figumemes (Quantidade)
 ┃│✰ ⋟ ${prefix}Figuflork (Quantidade)
@@ -259,7 +259,7 @@ const adms = (prefix, sender) => {
 ┃│✰ ⋟ ${prefix}Rebaixar [@] (Rebaixar-adm)
 ┃│✰ ⋟ ${prefix}Changegroup (all/adms)
 ┃│✰ ⋟ ${prefix}Rmphotogp (Remover ft do gp)
-┃│✰ ⋟ ${prefix}Ephemeral (Desativar ou ativar as mensagens temporárias)
+┃│✰ ⋟ ${prefix}Ephemeral (Desativar ou ativar as msg temp)
 ┃│✰ ⋟ ${prefix}Descgp (Texto)
 ┃│✰ ⋟ ${prefix}Nomegp (Nome)
 ┃│✰ ⋟ ${prefix}Totag (Mencionar algo)
