@@ -1,0 +1,47 @@
+📌𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐁𝐀́𝐒𝐈𝐂𝐎𝐒 𝐓𝐄𝐑𝐌𝐔X📌
+
+
+
+  termux-change-repo
+
+  apt-get upgrade -y
+
+  apt-get update -y
+
+  pkg upgrade -y
+   
+  pkg update -y 
+
+  pkg install nodejs -y 
+
+  pkg install nodejs-lts -y
+
+  pkg install ffmpeg -y 
+
+  pkg install wget -y 
+
+  pkg install tesseract -y
+
+  pkg install git -y
+
+  termux-setup-storage
+
+
+
+
+"APÓS CONFIGURAR DA FORMA CORRETA COMO NO VÍDEO"
+  •Utilize os comandos abaixo para inicializar•
+  
+ 
+  
+  1° cd /sdcard/sabrina
+   
+  2° npm start
+  
+  
+  
+  
+ 
+ 
+ 
+ 𝕸𝕯.𝕾𝖈𝖍𝖊𝖞𝖔𝖙 𝕯𝖔𝖒𝖎𝖓𝖆⚡😼
